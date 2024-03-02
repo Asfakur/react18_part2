@@ -4,4 +4,4 @@ $ npm i @tanstack/react-query@4.28
 using react query dev tools
 $ npm i @tanstack/react-query-devtools
 
-next: 
+next: 2-16 Handling Mutation Errors
